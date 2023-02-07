@@ -5,3 +5,6 @@ This demo fetches the weather data from open weather API (https://openweathermap
 The user can just write a city's name to search the weather. Try here:
 
 https://josefinelihogberg.github.io/OpenWeatherDemo/
+
+<img width="505" alt="image" src="https://user-images.githubusercontent.com/97985695/217211601-89bf5310-8fd2-485a-a105-4ae8c2da9dc2.png">
+
